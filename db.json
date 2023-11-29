@@ -11,12 +11,32 @@
     },
     {
       "id":3,
-      "content": "Energy Equipment",
-      "per": 38
+      "content": "Healthcare Devices and Digital Healthcare",
+      "per": 21
     },
     {
       "id": 4,
-      "content": "Jet Engine Manufacturer",
-      "per": 25
+      "content": "Utilities",
+      "per": 4
+    },
+     {
+      "id": 5,
+      "content": "Healthcare Engineering",
+      "per": 4
+    },
+    {
+      "id": 6,
+      "content": "Healthcare Engineering",
+      "per": 3
+    },
+    {
+      "id": 7,
+      "content": "Infrastructure Development and Related Services",
+      "per": 2
+    },
+    {
+      "id": 8,
+      "content": "Multi-sector Business",
+      "per": 3
     }
   ]
