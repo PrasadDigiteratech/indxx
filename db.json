@@ -2,21 +2,21 @@
     {
       "id": 1,
       "content": "Electrical Equipment",
-      "per": "38%"
+      "per": 38%
     },
     {
       "id": 2,
       "content": "Transportation Vehicles and Related Parts Manufacturer",
-      "per": "29%"
+      "per": 29%
     },
     {
       "id":3,
       "content": "Energy Equipment",
-      "per": "38%"
+      "per": 38%
     },
     {
       "id": 4,
       "content": "Jet Engine Manufacturer",
-      "per": "25%"
+      "per": 25%
     }
   ]
